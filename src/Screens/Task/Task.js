@@ -9,7 +9,7 @@ export default function TaskWork() {
     {
       id: 1,
       name: 'A',
-      background_color: 'red',
+      background_color: 'white',
     },
     {
       id: 2,
